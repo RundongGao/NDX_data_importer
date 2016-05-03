@@ -1,0 +1,5 @@
+import company table:
+``python import_companies.py dbname=DBNAME user=USER host=HOST password=PASSWORD``
+
+import quote table:
+''python import_quotes.py dbname=DBNAME user=USER host=HOST password=PASSWORD''
